@@ -48,9 +48,10 @@ a{
 }
 
 .pic{
-width: 100%;
-max-width: 1000px;
-margin: 100px auto 350px auto;
+width: calc(100%-20px);
+margin: 100px 10px 350px 10px;
+display: flex;
+justify-content: center;
 }
 
 
