@@ -47,7 +47,6 @@ a{
 }
 
 .pic{
-width: calc(100%-20px);
 margin: 100px 10px 350px 10px;
 display: flex;
 justify-content: center;
